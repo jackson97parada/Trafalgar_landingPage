@@ -12266,7 +12266,7 @@ h2, .h2 {
 }
 
 .bg-articles-points {
-  background-image: url(./public/images/element.png);
+  background-image: url(/public/images/element.png);
   background-repeat: no-repeat;
   background-position: left;
   background-position-y: 15rem;

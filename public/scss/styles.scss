@@ -16,7 +16,7 @@ $nav-link-padding-x: 0.5rem;
 
 $btn-padding-y: 0.7rem;
 
-@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../../public/node_modules/bootstrap/scss/bootstrap.scss";
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@400;500;700&family=Mulish:wght@300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap");
 
 .btn-primary {
@@ -111,7 +111,7 @@ h2 {
   background-position-y: 15rem;
 }
 .bg-articles-points {
-  background-image: url(./public/images/element.png);
+  background-image: url(/public/images/element.png);
   background-repeat: no-repeat;
   background-position: left;
   background-position-y: 15rem;
